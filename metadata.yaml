@@ -1,0 +1,34 @@
+_repo: Seven-and-Nine-years-Among-the-Camanches-and-Apaches--An-Autobiography_27164
+_version: 0.1.0
+contributor:
+  unknown_contributor:
+    agent_name: Johnson, Clark, M.D.
+    gutenberg_agent_id: '32503'
+    url: http://www.gutenberg.org/2009/agents/32503
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eastman, Edwin
+    gutenberg_agent_id: '32502'
+    url: http://www.gutenberg.org/2009/agents/32502
+description: ''
+gutenberg_issued: '2008-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27164'
+  lccn: '34018212'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Apache Indians -- Fiction'
+- !lcsh 'Indian captivities -- Fiction'
+- !lcsh 'Eastman, Edwin (Fictitious character) -- Fiction'
+- !lcsh 'Patent medicines'
+- !lcsh 'Comanche Indians -- Fiction'
+title: 'Seven and Nine years Among the Camanches and Apaches: An Autobiography'
+url: http://www.gutenberg.org/ebooks/27164
