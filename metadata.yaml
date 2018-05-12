@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '32502'
     url: http://www.gutenberg.org/2009/agents/32502
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27164#Seven-and-Nine-years-Among-the-Camanches-and-Apaches--An-Autobiography
 gutenberg_issued: '2008-11-05'
 gutenberg_type: Text
 identifiers:
